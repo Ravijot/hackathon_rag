@@ -1,0 +1,37 @@
+{
+    "status":"success",
+    "query":"",
+    "retrieved_data": [
+        {
+            "id": "",
+            "page_content": "",
+            "metadata": {
+                "source": "",
+                "filename": ""
+            }
+        },
+        {
+            "id": "",
+            "page_content": "",
+            "metadata": {
+                "source": "",
+                "filename": ""
+            }
+        }
+    ],
+        "response":"",
+        "evaluation":
+        {
+            "answer_relevancy":
+            {
+                "score":1.0,
+                "reason":"."
+                },
+            "faithfulness":
+            {
+                "score":1.0,
+                "reason":""
+            }
+            
+        }
+    }
